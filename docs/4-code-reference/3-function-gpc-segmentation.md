@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Function: run_gpc_for_mri_segmentation
+title: "Function: run_gpc_for_mri_segmentation"
 ---
 
 # Function: `run_gpc_for_mri_segmentation`

@@ -178,3 +178,5 @@ const config = {
 };
 
 export default config;
+
+// "deploy": "docusaurus deploy",

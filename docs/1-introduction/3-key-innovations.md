@@ -26,7 +26,7 @@ Key steps in this pipeline include:
 
 ## Enhanced GPC (EGPC) Algorithm Core
 
-The core of our framework is a significantly enhanced version of the [base Giza Pyramids Construction (GPC) algorithm](./1-base-gpc-algorithm.md). These enhancements are specifically designed to overcome the common challenge of premature convergence in metaheuristic search.
+The core of our framework is a significantly enhanced version of the [base Giza Pyramids Construction (GPC) algorithm](../3-concepts-and-theory/1-base-gpc-algorithm.md). These enhancements are specifically designed to overcome the common challenge of premature convergence in metaheuristic search.
 
 ### Smart Multi-Strategy Initialization
 

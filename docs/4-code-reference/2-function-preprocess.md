@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Function: preprocess_mri_image
+title: "Function: preprocess_mri_image"
 ---
 
 # Function: `preprocess_mri_image`

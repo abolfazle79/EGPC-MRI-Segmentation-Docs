@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Function: postprocess_tumor_segmentation
+title: "Function: postprocess_tumor_segmentation"
 ---
 
 # Function: `postprocess_tumor_segmentation`
